@@ -1,0 +1,24 @@
+{
+  "name": "sit725-2024-t1-p4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arun-reddy902/SIT725_2024_T1_PRAC4.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arun-reddy902/SIT725_2024_T1_PRAC4/issues"
+  },
+  "homepage": "https://github.com/arun-reddy902/SIT725_2024_T1_PRAC4#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongodb": "^6.6.1",
+    "nodemon": "^3.1.0"
+  }
+}
